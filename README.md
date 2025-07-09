@@ -22,19 +22,19 @@ Important Values in a Work Environment:
 
 Being creative and having a good income are very important to me. I want a career where I can express my ideas and be financially stable at the same time.
 
-✅ PART 2: CAREER EXPLORATION INSIGHTS
 
-✍️ 2.1 Industries and Roles Explored
+## ✅ PART 2: CAREER EXPLORATION INSIGHTS
+
+### ✍️ 2.1 Industries and Roles Explored
 
 I am interested in becoming a front-end developer, app developer, and software engineer. These roles caught my attention because they involve creating user-friendly applications and websites, which I find exciting and creative.
 
-✍️ 2.2 Alignment with Personal Profile
+
+### ✍️ 2.2 Alignment with Personal Profile
 
 These roles are a great match for my current skills and interests. They involve working with HTML and CSS, which I already know, and they require creativity and problem-solving, which I enjoy. I would love to do this kind of work every day because it allows me to build useful things and keep learning.
 
 To be fully prepared for these careers, I still need to learn JavaScript to add interactivity to websites, build a professional portfolio to showcase my work, and improve my communication skills to work well with teams and clients.
-
-
 
 
 ## ✅ PART 3: SMART CAREER GOALS
