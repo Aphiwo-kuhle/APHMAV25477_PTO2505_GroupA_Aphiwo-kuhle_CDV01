@@ -1,6 +1,8 @@
 ✅ PART 1: SELF-ASSESSMENT REFLECTION
 ✍️ 1.1 Skills Analysis
+
 Current Skills and Areas of Expertise:
+
 I enjoy coding and solving problems. My current technical skills include working with HTML and CSS to build and style web pages. I am also confident in using these tools to create simple, responsive website layouts.
 
 Skills to Develop or Improve:
