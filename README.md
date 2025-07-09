@@ -1,4 +1,5 @@
 ✅ PART 1: SELF-ASSESSMENT REFLECTION
+
 ✍️ 1.1 Skills Analysis
 
 Current Skills and Areas of Expertise:
@@ -9,10 +10,16 @@ Skills to Develop or Improve:
 I would like to improve my public speaking skills so that I can communicate my ideas more clearly and confidently. I also want to learn JavaScript to add interactivity and dynamic features to the websites I build.
 
 ✍️ 1.2 Interests and Values
+
+
 Key Interests Related to My Career:
+
+
 I am passionate about building websites and solving problems. I enjoy seeing how code can bring ideas to life and make useful tools for people.
 
 Important Values in a Work Environment:
+
+
 Being creative and having a good income are very important to me. I want a career where I can express my ideas and be financially stable at the same time.
 
 ## ✅ PART 2: CAREER EXPLORATION INSIGHTS
