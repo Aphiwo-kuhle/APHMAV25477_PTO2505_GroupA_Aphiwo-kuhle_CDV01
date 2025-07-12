@@ -1,7 +1,9 @@
 My Career Goals Reflection
+
 Part 1: Self-Assessment Reflection
+
 1.1 My Current Skills and What I Want to Improve
-Right now, I enjoy coding and solving problems. I know how to use HTML and CSS to build and style websites, and I feel confident creating simple, responsive layouts.
+Right now, I enjoy coding and solving problems. I know how to use HTML and CSS to build and style websites, and I feel confident creating simple, responsive layouts 
 
 But I want to get better at public speaking so I can explain my ideas clearly. I also want to learn JavaScript so I can make websites more interactive and fun to use.
 
@@ -75,3 +77,4 @@ Learning from mentors and tutors
 Joining tech communities and online coding groups
 
 By using these resources and staying focused, I believe I can grow and reach my goals in tech.
+
