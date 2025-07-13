@@ -1,4 +1,4 @@
-## My Career Goals Reflection
+# My Career Goals Reflection
 
 ## Part 1: Self-Assessment Reflection
 
@@ -17,7 +17,7 @@ I really enjoy building websites and solving problems with code. It makes me hap
 
 At work, I value creativity and earning a good income. I want a job where I can express myself while also being financially stable.
 
-## Part 2: Exploring Careers
+# Part 2: Exploring Careers
 
 
 2.1 Jobs I Am Interested In
@@ -26,7 +26,7 @@ I am interested in becoming a front-end developer, app developer, or software en
 2.2 Why These Jobs Match Me
 These careers are a good match for me because they use skills I already have—like HTML and CSS—and involve creativity and problem-solving, which I love.
 
-To prepare for these jobs, I need to:
+## To prepare for these jobs, I need to:
 
 Learn JavaScript
 
@@ -34,9 +34,9 @@ Build a strong portfolio
 
 Improve my communication skills so I can work well with others
 
-## Part 3: My Career Goals
+# Part 3: My Career Goals
 
-# Short-Term Goals (Next 1–2 Years)
+### Short-Term Goals (Next 1–2 Years)
 
 Learn JavaScript by taking 3 online courses and building 2 websites in the next 6 months.
 
@@ -44,7 +44,7 @@ Improve my communication by joining a public speaking club and attending 1 works
 
 These steps will help me build both my technical and soft skills.
 
-# Long-Term Goals (3–5 Years)
+### Long-Term Goals (3–5 Years)
 
 Get a job as a front-end developer at a tech company within 3 years.
 
@@ -52,9 +52,9 @@ Build a portfolio with 5 projects and contribute to 1 open-source project to sho
 
 These goals support my love for coding, creativity, and problem-solving.
 
-## Part 4: My Action Plan
+# Part 4: My Action Plan
 
-# What I Will Do Now (Short-Term):
+## What I Will Do Now (Short-Term):
 
 Sign up for a JavaScript course at CodeSpace Academy
 
@@ -71,9 +71,9 @@ Ask a mentor to give me feedback on my portfolio
 
 These actions will help me grow and get closer to the job I want.
 
-## Part 5: Challenges and Opportunities
+# Part 5: Challenges and Opportunities
 
-# Possible Challenges:
+## Possible Challenges:
 
 I may not always have Wi-Fi or a computer
 
