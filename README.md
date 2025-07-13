@@ -87,7 +87,7 @@ These actions will help me grow and get closer to the job I want.
 To deal with this, I will plan my time better, use offline resources, and reach out to mentors and online communities for support.
 
 ## Opportunities That Can Help Me
-Free online learning platforms like freeCodeCamp, CodeSpace, and YouTube
+-Free online learning platforms like freeCodeCamp, CodeSpace, and YouTube
 
 -Learning from mentors and tutors
 
