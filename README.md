@@ -1,13 +1,13 @@
-My Career Goals Reflection
+## My Career Goals Reflection
 
 Part 1: Self-Assessment Reflection
 
-1.1 My Current Skills and What I Want to Improve
+## 1.1 My Current Skills and What I Want to Improve
 Right now, I enjoy coding and solving problems. I know how to use HTML and CSS to build and style websites, and I feel confident creating simple, responsive layouts 
 
 But I want to get better at public speaking so I can explain my ideas clearly. I also want to learn JavaScript so I can make websites more interactive and fun to use.
 
-1.2 My Interests and What I Value
+### 1.2 My Interests and What I Value
 I really enjoy building websites and solving problems with code. It makes me happy to see my ideas come to life on a screen.
 
 At work, I value creativity and earning a good income. I want a job where I can express myself while also being financially stable.
